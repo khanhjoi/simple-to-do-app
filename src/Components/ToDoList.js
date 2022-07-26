@@ -61,6 +61,7 @@ class ToDoList extends React.Component {
                 // set save to edit
                 editToDo : '',
             })
+            toast.success("update success!");
             
             return ;
         }
