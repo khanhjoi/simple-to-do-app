@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-to-do-app/static/css/main.1c4d39fe.css",
+    "main.js": "/simple-to-do-app/static/js/main.369b012e.js",
+    "static/js/787.97a945da.chunk.js": "/simple-to-do-app/static/js/787.97a945da.chunk.js",
+    "index.html": "/simple-to-do-app/index.html",
+    "main.1c4d39fe.css.map": "/simple-to-do-app/static/css/main.1c4d39fe.css.map",
+    "main.369b012e.js.map": "/simple-to-do-app/static/js/main.369b012e.js.map",
+    "787.97a945da.chunk.js.map": "/simple-to-do-app/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c4d39fe.css",
+    "static/js/main.369b012e.js"
+  ]
+}
